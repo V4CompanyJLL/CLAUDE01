@@ -1,0 +1,18 @@
+GEREVENDAS — Brandbook final (revisão tipográfica Sora)
+12 lâminas em PDF vetorial, proporção 16:9 e página 1920 x 1080.
+PNGs individuais em 1920 x 1080 e 3840 x 2160 (4K), sem compressão com perdas.
+SVGs editáveis das páginas e assets com letras em curvas, compatíveis com Illustrator e importação no Figma.
+
+Alterações desta revisão:
+- Tipografia do manual substituída pela família Sora em todos os textos (títulos, subtítulos, textos e legendas).
+  A Sora passa a ser a família única de comunicação (Light, Regular, SemiBold); a lâmina 07 foi atualizada.
+- Lâmina 10 refeita: "Padrão gráfico", construído com o símbolo oficial em grade deslocada
+  (progressão, base clara e ampliação/recorte).
+- Novos assets: GEREVENDAS-padrao-*.svg/png (fundos 1920 x 1080 com o padrão).
+
+Inalterados: logotipo, símbolo, lettering, cores, layout e conteúdo das demais lâminas.
+Os arquivos de marca (full, word, compact, symbol) são os mesmos da entrega anterior.
+
+Sora: SIL Open Font License 1.1 — Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font).
+Arquivos da fonte em fonte-Sora/. Lettering da marca: personalizado em curvas.
+Assets PNG com transparência. full = assinatura principal; word = lettering; compact = versão vertical.
