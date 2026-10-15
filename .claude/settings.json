@@ -9,5 +9,8 @@
   },
   "enabledPlugins": {
     "superpowers@superpowers-marketplace": true
+  },
+  "env": {
+    "CHROME_PATH": "/opt/pw-browsers/chromium"
   }
 }
